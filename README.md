@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityabhatia77&label=Profile%20views&color=0e75b6&style=flat" alt="aadityabhatia77" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aaditya4545" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya4545?logo=twitter&style=for-the-badge" alt="aaditya4545" /></a> </p>
 
 - 🔭 I’m currently working on **a cool website**
 
@@ -13,7 +12,6 @@
 
 - 💬 Ask me about **JS,HTML,CSS**
 
-- 📫 How to reach me **aadityabhatia77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
